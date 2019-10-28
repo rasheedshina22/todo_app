@@ -1,6 +1,7 @@
 {
 	"name": "newapp",
 	"version": "0.1.0",
+	"homepage": "https://rasheedshina22.github.io/simple_todo_app/",
 	"private": true,
 	"dependencies": {
 		"gh-pages": "^2.0.1",
