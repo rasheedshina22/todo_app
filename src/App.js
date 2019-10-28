@@ -11,8 +11,6 @@ class App extends Component {
 			{ id: 1, title: "read 50 books this year" },
 			{ id: 2, title: "master react this year" },
 			{ id: 3, title: "master Node and Express this year" },
-			{ id: 4, title: "master vue this year" },
-			{ id: 5, title: "master angular this year" }
 		]
 	};
 
